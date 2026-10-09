@@ -1,0 +1,6 @@
+info:
+  name: list 2
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/payments-backend-3/2
